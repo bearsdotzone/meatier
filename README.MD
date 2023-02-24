@@ -1,0 +1,2 @@
+# Meatier
+An attempt to create a foss version of [Meteo](https://web.archive.org/web/20220628150616/http://www.gameboy-advance.net/video/meteo_avi-2-gba_video_codec.htm) the AVI to GBA Video application.
